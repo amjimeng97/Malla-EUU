@@ -74,4 +74,4 @@ function crearMalla() {
   });
 }
 
-crearMalla();
+window.onload = crearMalla;
