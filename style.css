@@ -23,7 +23,7 @@ h1 {
 }
 
 .ramo {
-  background-color: #ffd6e7; /* rosado pastel */
+  background-color: #ffd6e7;
   margin: 8px 0;
   padding: 8px 12px;
   border-radius: 5px;
@@ -32,7 +32,7 @@ h1 {
 }
 
 .ramo.aprobado {
-  background-color: #dab6ff; /* morado pastel */
+  background-color: #dab6ff;
   text-decoration: line-through;
   color: #4c3f91;
 }
